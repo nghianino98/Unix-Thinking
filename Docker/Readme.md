@@ -1,7 +1,7 @@
 DOCKER
 ======
 <div align="center">
-<img src=https://github.com/nghianino98/Unix-Thinking-Github/blob/master/images/Docker.png=></div>
+<img src=https://github.com/nghianino98/Unix-Thinking-Github/blob/master/images/Docker.png></div>
 
 ## 1. Docker là gì ?
 Docker là một **open platform** cung cấp cho người dùng sử dụng những công cụ và service có thể đóng gói và chạy chương trình của mình trên các ***môi trường khác nhau*** một cách ***nhanh nhất***
